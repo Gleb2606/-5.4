@@ -1,0 +1,7 @@
+C:\Users\glebw\source\repos\лаб 5.4\bin\Debug\лаб 5.4.exe.config
+C:\Users\glebw\source\repos\лаб 5.4\bin\Debug\лаб 5.4.exe
+C:\Users\glebw\source\repos\лаб 5.4\bin\Debug\лаб 5.4.pdb
+C:\Users\glebw\source\repos\лаб 5.4\obj\Debug\лаб 5.4.csproj.AssemblyReference.cache
+C:\Users\glebw\source\repos\лаб 5.4\obj\Debug\лаб 5.4.csproj.CoreCompileInputs.cache
+C:\Users\glebw\source\repos\лаб 5.4\obj\Debug\лаб 5.4.exe
+C:\Users\glebw\source\repos\лаб 5.4\obj\Debug\лаб 5.4.pdb
