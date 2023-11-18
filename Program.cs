@@ -12,7 +12,7 @@ namespace лаб_5._4
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("Введите первое предложение:\n");
+            Console.WriteLine("Введите предложение:\n");
             string sentence = Console.ReadLine();
             //string[] sentenceArray = sentence.Split(new char[] { ' ' });
 
