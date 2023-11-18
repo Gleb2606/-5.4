@@ -16,7 +16,7 @@ namespace лаб_5._4
             string sentence = Console.ReadLine();
             //string[] sentenceArray = sentence.Split(new char[] { ' ' });
 
-            string pattern = @"\w{3}\s\d{2},\s\d{4}";
+            string pattern = @"\d{2}.\d{2}.\d{4}";
 
             Console.WriteLine("\nСтроки, являющиеся датой:\n");
 
